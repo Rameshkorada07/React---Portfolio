@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30b431fe.css",
+    "main.js": "/static/js/main.e7918f7d.js",
+    "static/js/488.f30ea4ab.chunk.js": "/static/js/488.f30ea4ab.chunk.js",
+    "static/media/batman.jpg": "/static/media/batman.331d51d61df611268c78.jpg",
+    "static/media/clg-blog pic.jpg": "/static/media/clg-blog pic.78c1a245c72a95da7ef1.jpg",
+    "static/media/js-pic.jpg": "/static/media/js-pic.7f31c33a951bca8419b2.jpg",
+    "static/media/to-do-list-pic.jpg": "/static/media/to-do-list-pic.f82a0c97574ceb6f96c4.jpg",
+    "static/media/profile3.jpg": "/static/media/profile3.79a9adf57caa6037883f.jpg",
+    "static/media/project-pic1.jpg": "/static/media/project-pic1.a4931cec6120bff586c4.jpg",
+    "static/media/project-pic2.jpg": "/static/media/project-pic2.eebee8017986e2462e72.jpg",
+    "index.html": "/index.html",
+    "main.30b431fe.css.map": "/static/css/main.30b431fe.css.map",
+    "main.e7918f7d.js.map": "/static/js/main.e7918f7d.js.map",
+    "488.f30ea4ab.chunk.js.map": "/static/js/488.f30ea4ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b431fe.css",
+    "static/js/main.e7918f7d.js"
+  ]
+}
